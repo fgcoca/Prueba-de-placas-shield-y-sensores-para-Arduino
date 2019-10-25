@@ -5,6 +5,10 @@ Se realizará análisis y pruebas básicas de las mismas con exposición de resu
 
 ![](https://github.com/fgcoca/Prueba-de-placas-shield-y-sensores-para-Arduino/blob/master/0-Portada/UNO-con-pines.png) | ![](https://github.com/fgcoca/Prueba-de-placas-shield-y-sensores-para-Arduino/blob/master/0-Portada/UNO-easy-plug.png)
 
+# **Enlaces**
+* [Keyestudio] (https://www.keyestudio.com/)
+* [Wiki-tutoriales de keyestudio] (https://wiki.keyestudio.com/Main_Page)
+
 # **Autor**
 
 [Federico Coca Caba] (https://github.com/fgcoca)
